@@ -16,13 +16,8 @@ The dashboard highlights the impact of political decisions on sector volatility 
 - Interactive visualizations to explore sectoral and temporal volatility  
 - Sector heatmaps highlighting areas of impact  
 
-## Repository Structure  
-- `Dashboard.pbix`: complete Power BI file  
-- `data/`: source and intermediate data files (Excel, CSV, Python scripts)  
-- `scripts/`: Python scripts for data cleaning and analysis  
-
 ## Usage  
-Open the `Dashboard.pbix` file with Power BI Desktop to view and interact with the dashboard.
+Open the `PowerBI-Market-Politics-Analysis.pbix` file with Power BI Desktop to view and interact with the dashboard.
 
 ---
 
